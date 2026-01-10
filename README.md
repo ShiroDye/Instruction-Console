@@ -1,3 +1,13 @@
+---
+
+## 📄 License / 许可证
+
+This project is licensed under the **MIT License**.  
+本项目采用 **MIT 许可证** 开源。
+
+> **Summary**: You can use, copy, and modify this software for any purpose, but the author is not responsible for any consequences.  
+> **简述**：您可以出于任何目的使用、复制或修改本软件，但作者不承担任何使用后果。
+
 # Instruction Console (指令序列控制台) V3.2
 
 [English Version](#english-version) | [中文说明](#中文说明)

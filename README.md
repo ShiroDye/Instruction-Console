@@ -27,11 +27,12 @@ This project is licensed under the **MIT License**.
 3. **Run**: Click **START EXECUTION**; a 2-second buffer is provided for window switching.
 4. **Emergency Stop**: Terminate execution immediately by clicking the red **STOP** button.
 
-### 🛠️ Build
-运行环境依赖：Python 3.8+，需安装 pynput 库  
-打包命令：  
-pip install pynput  
-pyinstaller -F -w -n "InstructionConsole_V3.2" spam.pyw
+### 🛠️ Environment & Build
+- **Requirement**: Python 3.8 or higher with the `pynput` library installed.
+- **Dependency Installation**: `pip install pynput`
+- **Build Command**: 
+  ```bash
+  pyinstaller -F -w -n "InstructionConsole_V3.2" spam.pyw
 
 ---
 

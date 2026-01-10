@@ -25,6 +25,7 @@
 pip install pynput
 pyinstaller -F -w -n "InstructionConsole_V3.2" spam.pyw
 
+---
 
 <a name="中文说明"></a>
 ## 中文说明

@@ -1,5 +1,3 @@
----
-
 ## 📄 License / 许可证
 
 This project is licensed under the **MIT License**.  

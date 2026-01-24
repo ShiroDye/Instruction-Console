@@ -1,4 +1,4 @@
-Some links
+# **Some links**
 
 [![Discord](https://img.shields.io/discord/1305535111697141790?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
 

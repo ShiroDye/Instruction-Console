@@ -1,3 +1,6 @@
+
+[![Discord](https://img.shields.io/discord/1409012263423185039?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
+
 ## 📄 License / 许可证
 
 This project is licensed under the **MIT License**.  

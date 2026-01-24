@@ -1,5 +1,5 @@
 
-[![Discord](https://img.shields.io/discord/1409012263423185039?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
+[![Discord](https://img.shields.io/discord/1305535111697141790?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
 
 ## 📄 License / 许可证
 

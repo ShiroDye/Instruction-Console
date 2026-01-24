@@ -6,7 +6,7 @@ from tkinter import filedialog
 from pynput import mouse, keyboard
 
 root = Tk()
-root.title("指令序列主控台 Version 3.2.0 By ShiroDye")
+root.title("指令序列主控台 Version 3.2.0 By W~Z~C")
 root.geometry("700x600+500+150")
 root.configure(bg='#f4f4f9')
 
@@ -258,5 +258,6 @@ btn = Button(f_body, text="開始執行 [Ctrl+Shift+F12]", bg='#5c6bc0', fg='whi
 btn.pack(fill=X, ipady=8)
 
 setup_hotkey_listener()
+
 
 root.mainloop()

@@ -6,7 +6,7 @@ This project is licensed under the **MIT License**.
 > **Summary**: You can use, copy, and modify this software for any purpose, but the author is not responsible for any consequences.  
 > **简述**：您可以出于任何目的使用、复制或修改本软件，但作者不承担任何使用后果。
 
-# Instruction Console (指令序列控制台) V3.2
+# Instruction Console (指令序列控制台) 
 
 [English Version](#english-version) | [简体中文说明](#简体中文说明) [繁体中文说明](#繁体中文说明)
 
@@ -32,12 +32,12 @@ This project is licensed under the **MIT License**.
 - **Dependency Installation**: `pip install pynput`
 - **Build Command**: 
   ```bash
-  pyinstaller -F -w -n "InstructionConsole_V3.2" spam.pyw
+  pyinstaller -F -w -n "InstructionConsole_Vx.x" main_xxxEN.py
 
 ---
 
 <a name="简体中文说明"></a>
-## 中文说明
+## 简中说明
 ### 项目定位
 指令序列控制台是一款轻量级、高精度的自动化工具，旨在简化重复性的键盘操作。
 
@@ -57,12 +57,12 @@ This project is licensed under the **MIT License**.
 ### 🛠️ 环境依赖与打包
 - **运行环境**：Python 3.8 及以上版本，需安装 pynput 第三方库。
 - **安装依赖命令**：pip install pynput
-- **打包指令**：pyinstaller -F -w -n "InstructionConsole_V3.2" spam.pyw
+- **打包指令**：pyinstaller -F -w -n "InstructionConsole_Vx.x" main.xxxCN.py
 
 ---
 
 <a name="繁体中文说明"></a>
-## 中文说明
+## 繁中说明
 ### 项目定位
 指令序列控制台是一款轻量级、高精度的自动化工具，旨在简化重复性的键盘操作。
 
@@ -82,4 +82,4 @@ This project is licensed under the **MIT License**.
 ### 🛠️ 环境依赖与打包
 - **运行环境**：Python 3.8 及以上版本，需安装 pynput 第三方库。
 - **安装依赖命令**：pip install pynput
-- **打包指令**：pyinstaller -F -w -n "InstructionConsole_V3.2" spam.pyw
+- **打包指令**：pyinstaller -F -w -n "InstructionConsole_Vx.x" main_xxxTC.py
